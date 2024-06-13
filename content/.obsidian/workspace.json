@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Άμεσοι Αλγόριθμοι.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Άμεσοι Αλγόριθμοι.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Άμεσοι Αλγόριθμοι.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Άμεσοι Αλγόριθμοι.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
+    "index.md",
     "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Προφητικές ανισότητες(prophet inequalities).md",
     "Το πρόβλημα του γραμματέα.md",
@@ -158,7 +159,6 @@
     "Χρονοπρογραμματισμός.md",
     "Screenshot_13.png",
     "Screenshot_12.png",
-    "index.md",
     "Screenshot_11.png",
     "Screenshot_10.png",
     "Screenshot_2024-06-12_17-30-57.png",
