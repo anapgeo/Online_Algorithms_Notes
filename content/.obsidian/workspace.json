@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Το πρόβλημα του σκι.md",
+                "file": "Εξισορρόπηση φορτίου(Load Balancing).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Το πρόβλημα του σκι.md",
+                "file": "Εξισορρόπηση φορτίου(Load Balancing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Το πρόβλημα του σκι.md",
+                "file": "Εξισορρόπηση φορτίου(Load Balancing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Το πρόβλημα του σκι.md"
+                "file": "Εξισορρόπηση φορτίου(Load Balancing).md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
+    "Screenshot_13.png",
+    "Screenshot_12.png",
+    "Άμεσοι Αλγόριθμοι.md",
+    "Εξισορρόπηση φορτίου(Load Balancing).md",
+    "Χρονοπρογραμματισμός.md",
+    "Το πρόβλημα του σκι.md",
     "Προφητικές ανισότητες(prophet inequalities).md",
     "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
     "Το πρόβλημα του γραμματέα.md",
     "index.md",
-    "Το πρόβλημα του σκι.md",
-    "Άμεσοι Αλγόριθμοι.md",
     "Screenshot_11.png",
     "Screenshot_10.png",
     "Screenshot_2024-06-12_17-30-57.png",
