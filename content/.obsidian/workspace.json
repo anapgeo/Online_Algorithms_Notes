@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Το πρόβλημα του σκι.md",
+                "file": "Προφητικές ανισότητες(prophet inequalities).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Το πρόβλημα του σκι.md",
+                "file": "Προφητικές ανισότητες(prophet inequalities).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Το πρόβλημα του σκι.md",
+                "file": "Προφητικές ανισότητες(prophet inequalities).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Το πρόβλημα του σκι.md"
+                "file": "Προφητικές ανισότητες(prophet inequalities).md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "Άμεσοι Αλγόριθμοι.md",
-    "Προφητικές ανισότητες(prophet inequalities).md",
-    "index.md",
     "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+    "Προφητικές ανισότητες(prophet inequalities).md",
+    "Το πρόβλημα του γραμματέα.md",
+    "index.md",
     "Το πρόβλημα του σκι.md",
+    "Άμεσοι Αλγόριθμοι.md",
     "Screenshot_11.png",
     "Screenshot_10.png",
     "Screenshot_2024-06-12_17-30-57.png",
