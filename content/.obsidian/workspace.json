@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+                "file": "Το πρόβλημα του σκι.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+                "file": "Το πρόβλημα του σκι.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+                "file": "Το πρόβλημα του σκι.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md"
+                "file": "Το πρόβλημα του σκι.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "Άμεσοι Αλγόριθμοι.md"
+    "Screenshot_11.png",
+    "Screenshot_10.png",
+    "Προφητικές ανισότητες(prophet inequalities).md",
+    "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+    "Το πρόβλημα του σκι.md",
+    "Άμεσοι Αλγόριθμοι.md",
+    "Screenshot_2024-06-12_17-30-57.png",
+    "index.md",
+    "Screenshot_9.png",
+    "Screenshot_8.png",
+    "Screenshot_7.png"
   ]
 }
