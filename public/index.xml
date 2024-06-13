@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας)</title>
+    <link>https://quartz.jzhao.xyz/%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CE%B5-%CE%B5%CF%85%CE%B8%CE%B5%CE%AF%CE%B1-(%CE%A4%CE%BF-%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1-%CF%84%CE%B7%CF%82-%CE%B1%CE%B3%CE%B5%CE%BB%CE%AC%CE%B4%CE%B1%CF%82)</link>
+    <guid>https://quartz.jzhao.xyz/%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CE%B5-%CE%B5%CF%85%CE%B8%CE%B5%CE%AF%CE%B1-(%CE%A4%CE%BF-%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1-%CF%84%CE%B7%CF%82-%CE%B1%CE%B3%CE%B5%CE%BB%CE%AC%CE%B4%CE%B1%CF%82)</guid>
+    <description>Το πρόβλημα Το πρόβλημα έχει ως εξής: Υπάρχει μια αγελάδα στο σημείο 0 του άξονα Δεξιά και αριστερά της υπάρχουν άπειροι ημιάξονες Μπορεί να μετακινθεί δεξιά και αριστερά στην ευθεία ...</description>
+    <pubDate>Thu, 13 Jun 2024 01:49:03 GMT</pubDate>
+  </item><item>
+    <title>Σημειώσεις Αλγορίθμων</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Στα άμεσα προβλήματα ο αλγόριθμος δεν γνωρίζει εξ αρχής όλα τα δεδομένα εισόδου. Θα εξετάσουμε τις εξής κατηγορίες προβλημάτων: Άμεσοι Αλγόριθμοι: Η είσοδος παρουσίαζεται σταδιακά.</description>
+    <pubDate>Thu, 13 Jun 2024 01:38:40 GMT</pubDate>
+  </item><item>
+    <title>Άμεσοι Αλγόριθμοι</title>
+    <link>https://quartz.jzhao.xyz/%CE%86%CE%BC%CE%B5%CF%83%CE%BF%CE%B9-%CE%91%CE%BB%CE%B3%CF%8C%CF%81%CE%B9%CE%B8%CE%BC%CE%BF%CE%B9</link>
+    <guid>https://quartz.jzhao.xyz/%CE%86%CE%BC%CE%B5%CF%83%CE%BF%CE%B9-%CE%91%CE%BB%CE%B3%CF%8C%CF%81%CE%B9%CE%B8%CE%BC%CE%BF%CE%B9</guid>
+    <description>Competitive Analysis Συχνά σε όλες τις αναλύσεις που θα δούμε χρησιμοποιείται τo concept του competitive analysis(ανταγωνιστική ανάλυση). Δηλαδή έστω πως η είσοδος μας είναι μια ακολουθία από αιτήματα \large σ=(σ_1,σ_2,...,σ_t, ...).</description>
+    <pubDate>Thu, 13 Jun 2024 01:27:00 GMT</pubDate>
+  </item><item>
+    <title>Προφητικές ανισότητες(prophet inequalities)</title>
+    <link>https://quartz.jzhao.xyz/%CE%A0%CF%81%CE%BF%CF%86%CE%B7%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B9%CF%83%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82(prophet-inequalities)</link>
+    <guid>https://quartz.jzhao.xyz/%CE%A0%CF%81%CE%BF%CF%86%CE%B7%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B9%CF%83%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82(prophet-inequalities)</guid>
+    <description></description>
+    <pubDate>Thu, 13 Jun 2024 01:27:00 GMT</pubDate>
+  </item><item>
+    <title>Το πρόβλημα του σκι</title>
+    <link>https://quartz.jzhao.xyz/%CE%A4%CE%BF-%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1-%CF%84%CE%BF%CF%85-%CF%83%CE%BA%CE%B9</link>
+    <guid>https://quartz.jzhao.xyz/%CE%A4%CE%BF-%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1-%CF%84%CE%BF%CF%85-%CF%83%CE%BA%CE%B9</guid>
+    <description>Το πρόβλημα Είμαστε σε διακόπες σε ένα χιονοδρομικό και θέλουμε να μάθουμε σκι Η ενοικίαση εξπλισμού σκι κοστίζει 20 ευρώ/ημέρα Η αγορά του εξοπλισμού κοστίζει 200 ευρώ Δεν γνωρίζουμε ...</description>
+    <pubDate>Thu, 13 Jun 2024 01:27:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
