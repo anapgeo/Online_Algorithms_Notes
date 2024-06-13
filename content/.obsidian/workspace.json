@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Εξισορρόπηση φορτίου(Load Balancing).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Εξισορρόπηση φορτίου(Load Balancing).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Εξισορρόπηση φορτίου(Load Balancing).md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Εξισορρόπηση φορτίου(Load Balancing).md"
+                "file": "index.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "Screenshot_15.png",
-    "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+    "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Προφητικές ανισότητες(prophet inequalities).md",
     "Το πρόβλημα του γραμματέα.md",
+    "Screenshot_15.png",
+    "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
     "Το πρόβλημα του σκι.md",
-    "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Άμεσοι Αλγόριθμοι.md",
     "Χρονοπρογραμματισμός.md",
     "Screenshot_13.png",
