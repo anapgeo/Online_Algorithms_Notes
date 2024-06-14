@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι.md",
+                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι.md",
+                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι.md",
+                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι.md"
+                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "Βέλτιστη Κρυφή Μνήμη.md",
+    "Screenshot_17.png",
+    "Screenshot_16.png",
     "Άμεσοι Αλγόριθμοι.md",
+    "Βέλτιστη Κρυφή Μνήμη(cache).md",
     "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
     "Online Steiner Tree.md",
