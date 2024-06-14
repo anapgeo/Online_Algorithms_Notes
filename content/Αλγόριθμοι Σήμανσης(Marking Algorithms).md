@@ -3,7 +3,7 @@
 
 Οι αλγόριθμοι σήμανσης για την επίλυση του προβήματος της κρυφής μνήμης είναι μια κλάση αλγορίθμων οι οποίοι περιγράφονται από τον παρακάτω ψευδοκώδικα:
 
-$$\begin{align*}\\ 
+$$\begin{align}\\ 
 & \text{Κάθε στοιχείο μνήμης είναι είτε \textbf{marked} ή \textbf{unmarked}}\\ 
 &\text{Στην αρχή όλα τα στοιχεία είναι \textbf{unmarked}}\\ 
 &\\
@@ -18,10 +18,12 @@ $$\begin{align*}\\
 &  \; \; \; \; \; \; \textbf{Else } \text{απομακρύνεται \textbf{ένα unmarked στοιχείο} από την cache}  \\
 &  \; \; \; \; \; \; \textbf{EndIf }  \\
 &  \; \; \;  \textbf{EndIf }   \\
-\end{align*}$$
+\end{align}$$
 ## Τυχαιοποιημένος Αλγόριθμος Σήμανσης
 
-$$\begin{align*}\\ 
+
+
+$$\begin{align}\\ 
 & \text{Κάθε στοιχείο μνήμης είναι είτε \textbf{marked} ή \textbf{unmarked}}\\ 
 &\text{Στην αρχή όλα τα στοιχεία είναι \textbf{unmarked}}\\ 
 &\\
@@ -36,4 +38,4 @@ $$\begin{align*}\\
 &  \; \; \; \; \; \; \textbf{Else } \text{απομακρύνεται \textbf{ένα τυχαίο unmarked στοιχείο ομοιόμορφα στην τύχη} από την cache}  \\
 &  \; \; \; \; \; \; \textbf{EndIf }  \\
 &  \; \; \;  \textbf{EndIf }   \\
-\end{align*}$$
+\end{align}$$
