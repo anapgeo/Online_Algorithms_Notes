@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md"
+                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
+    "index.md",
+    "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+    "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
     "Screenshot_2024-06-14_18-42-34.png",
     "Screenshot_24.png",
     "Screenshot_23.png",
@@ -158,17 +161,13 @@
     "Προφητικές ανισότητες(prophet inequalities).md",
     "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Βέλτιστη Κρυφή Μνήμη(cache).md",
-    "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
     "Screenshot_20.png",
     "Screenshot_19.png",
-    "Άμεσοι Αλγόριθμοι.md",
     "Screenshot_17.png",
     "Screenshot_16.png",
     "Online Steiner Tree.md",
     "Το πρόβλημα του σκι.md",
-    "index.md",
     "Screenshot_15.png",
-    "Χρονοπρογραμματισμός.md",
-    "Screenshot_13.png"
+    "Χρονοπρογραμματισμός.md"
   ]
 }
