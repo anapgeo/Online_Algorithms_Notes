@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Άμεσοι Αλγόριθμοι(Online Algorithms).md"
+                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "index.md",
     "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+    "index.md",
     "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
     "Screenshot_2024-06-14_18-42-34.png",
     "Screenshot_24.png",
