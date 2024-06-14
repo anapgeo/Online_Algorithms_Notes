@@ -23,6 +23,33 @@ $$
 \end{align}
 
 $$
+
+$$
+\begin{algorithm}
+
+\caption{Cache Management Algorithm} \begin{algorithmic}[1] 
+
+\STATE Κάθε στοιχείο μνήμης είναι είτε \textit{marked} ή \textit{unmarked} 
+
+\STATE Στην αρχή όλα τα στοιχεία είναι \textit{unmarked} 
+\FORALL{αίτημα του στοιχείου $s$} 
+\STATE Σημειώνουμε (\textit{Mark}) το $s$ 
+\IF{$s$ είναι στην \textit{cache}} 
+\STATE δεν απομακρύνεται κανένα στοιχείο 
+\ELSE \IF{το $s$ δεν είναι στην \textit{cache}} 
+\IF{όλα τα στοιχεία της \textit{cache} είναι \textit{marked}} 
+\STATE Ολοκληρώνεται η φάση 
+\STATE Η επεξεργασία του $s$ μετατίθεται στην αρχή της επόμενης φάσης 
+\ELSE \STATE απομακρύνεται ένα \textit{unmarked} στοιχείο από την \textit{cache} \ENDIF 
+\ENDIF 
+\ENDIF 
+\ENDFOR 
+
+\end{algorithmic} 
+
+\end{algorithm}
+$$
+
 ## Τυχαιοποιημένος Αλγόριθμος Σήμανσης
 
 
