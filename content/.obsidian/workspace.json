@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md",
+                "file": "Αλγόριθμοι Σήμανσης.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md",
+                "file": "Αλγόριθμοι Σήμανσης.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md",
+                "file": "Αλγόριθμοι Σήμανσης.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Βέλτιστη Κρυφή Μνήμη(cache).md"
+                "file": "Αλγόριθμοι Σήμανσης.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
+    "Βέλτιστη Κρυφή Μνήμη(cache).md",
+    "Αλγόριθμοι Σήμανσης.md",
     "Screenshot_17.png",
     "Screenshot_16.png",
     "Άμεσοι Αλγόριθμοι.md",
-    "Βέλτιστη Κρυφή Μνήμη(cache).md",
     "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
     "Online Steiner Tree.md",
-    "Αλγόριθμοι Σήμανσης.md",
     "Προφητικές ανισότητες(prophet inequalities).md",
     "Το πρόβλημα του σκι.md",
     "Το πρόβλημα του γραμματέα.md",
@@ -168,7 +168,6 @@
     "Screenshot_10.png",
     "Screenshot_2024-06-12_17-30-57.png",
     "Screenshot_9.png",
-    "Screenshot_8.png",
-    "Screenshot_7.png"
+    "Screenshot_8.png"
   ]
 }
