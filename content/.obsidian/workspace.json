@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+                "file": "Προφητικές ανισότητες(prophet inequalities).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+                "file": "Προφητικές ανισότητες(prophet inequalities).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+                "file": "Προφητικές ανισότητες(prophet inequalities).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Αλγόριθμοι Σήμανσης(Marking Algorithms).md"
+                "file": "Προφητικές ανισότητες(prophet inequalities).md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "Untitled.md",
     "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+    "Untitled.md",
     "Screenshot_2024-06-14_18-42-34.png",
     "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
     "Screenshot_2024-06-12_17-30-57.png",
