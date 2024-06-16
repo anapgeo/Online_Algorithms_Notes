@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md",
+                "file": "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md",
+                "file": "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md",
+                "file": "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md"
+                "file": "Το πρόβλημα του γραμματέα (The Secretary Problem).md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7e36d7e27e914950",
   "lastOpenFiles": [
-    "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
     "Ανισότητες Προφητών(prophet inequalities).md",
+    "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
     "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
     "Untitled.md",
     "Screenshot_2024-06-14_18-42-34.png",
