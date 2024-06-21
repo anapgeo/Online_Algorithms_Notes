@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md",
+                "file": "Online Steiner Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md",
+                "file": "Online Steiner Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md",
+                "file": "Online Steiner Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ανισότητες Προφητών(prophet inequalities).md"
+                "file": "Online Steiner Tree.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "a607a5d2f38543e2",
   "lastOpenFiles": [
+    "Screenshot_2.png",
+    "Ανισότητες Προφητών(prophet inequalities).md",
     "Online Steiner Tree.md",
     "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
     "Βέλτιστη Κρυφή Μνήμη(cache).md",
-    "Ανισότητες Προφητών(prophet inequalities).md",
     "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
     "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
     "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
