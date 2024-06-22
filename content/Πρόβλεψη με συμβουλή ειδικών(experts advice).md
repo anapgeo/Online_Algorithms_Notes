@@ -38,6 +38,8 @@
 
 [[Αλγόριθμος Weighted Majority-Δεν υπάρχει αλάνθαστος expert]]
 
+[[Αλγόριθμος Εxponential Weighted Αverage]]
+
 
 ### Κάτω Φράγμα Ντετερμινιστικών Αλγορίθμων
 
