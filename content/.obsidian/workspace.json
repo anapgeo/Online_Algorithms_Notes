@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a607a5d2f38543e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Άμεση Εκμάθηση (Online Learning).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0321f40eaafcfdab",
             "type": "leaf",
             "state": {
@@ -31,8 +19,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5fe9d4e7f9f734b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a607a5d2f38543e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Άμεση Εκμάθηση (Online Learning).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,6 +166,7 @@
   },
   "active": "0321f40eaafcfdab",
   "lastOpenFiles": [
+    "Screenshot_7 1.png",
     "Άμεση Εκμάθηση (Online Learning).md",
     "Πρόβλεψη με συμβουλή ειδικών(experts advice).md",
     "index.md",
