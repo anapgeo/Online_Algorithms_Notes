@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Steiner Tree.md",
+                "file": "Άμεση Εκμάθηση (Online Learning).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0321f40eaafcfdab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Πρόβλεψη με συμβουλή ειδικών(experts advice).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Steiner Tree.md",
+                "file": "Πρόβλεψη με συμβουλή ειδικών(experts advice).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online Steiner Tree.md",
+                "file": "Πρόβλεψη με συμβουλή ειδικών(experts advice).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online Steiner Tree.md"
+                "file": "Πρόβλεψη με συμβουλή ειδικών(experts advice).md"
               }
             }
           }
@@ -146,18 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a607a5d2f38543e2",
+  "active": "0321f40eaafcfdab",
   "lastOpenFiles": [
-    "Screenshot_1.png",
-    "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+    "Άμεση Εκμάθηση (Online Learning).md",
+    "Πρόβλεψη με συμβουλή ειδικών(experts advice).md",
+    "index.md",
     "Ανισότητες Προφητών(prophet inequalities).md",
+    "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
+    "Άμεσοι Αλγόριθμοι(Online Algorithms).md",
+    "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
+    "Online Steiner Tree.md",
+    "Screenshot_1.png",
     "Το πρόβλημα του γραμματέα (The Secretary Problem).md",
     "Εξισορρόπηση φορτίου(Load Balancing).md",
     "Βέλτιστη Κρυφή Μνήμη(cache).md",
-    "Αναζήτηση σε ευθεία (Το πρόβλημα της αγελάδας).md",
-    "Αλγόριθμοι Σήμανσης(Marking Algorithms).md",
     "Το πρόβλημα του σκι.md",
-    "Online Steiner Tree.md",
     "Screenshot_5.png",
     "Screenshot_3.png",
     "Screenshot_2 1.png",
@@ -165,7 +181,6 @@
     "Untitled.md",
     "Screenshot_2024-06-14_18-42-34.png",
     "Screenshot_2024-06-12_17-30-57.png",
-    "index.md",
     "Screenshot_24.png",
     "Screenshot_23.png",
     "Screenshot_22.png",
