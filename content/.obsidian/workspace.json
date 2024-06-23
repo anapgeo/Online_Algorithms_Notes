@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Μερική Πληροφόρηση - Bandits.md",
+                "file": "Ανισότητες Προφητών(prophet inequalities).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Μερική Πληροφόρηση - Bandits.md",
+                "file": "Ανισότητες Προφητών(prophet inequalities).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Μερική Πληροφόρηση - Bandits.md",
+                "file": "Ανισότητες Προφητών(prophet inequalities).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Μερική Πληροφόρηση - Bandits.md"
+                "file": "Ανισότητες Προφητών(prophet inequalities).md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "a607a5d2f38543e2",
   "lastOpenFiles": [
+    "Μερική Πληροφόρηση - Bandits.md",
     "Πρόβλεψη με συμβουλή ειδικών(experts advice).md",
     "Αλγόριθμος Εxponential Weighted Αverage.md",
     "Τυχαιοποιημένος αλγόριθμος Weighted Majority(Randomized Weighted Majority ή RWM).md",
-    "Μερική Πληροφόρηση - Bandits.md",
     "Screenshot_8 2.png",
     "Άμεση Εκμάθηση (Online Learning).md",
     "Untitled.md",
