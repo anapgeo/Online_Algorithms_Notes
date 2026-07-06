@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "LXGW WenKai TC",
-        body: "LXGW WenKai TC",
+        header: "Literata",
+        body: "Literata",
         code: "IBM Plex Mono",
       },
       colors: {
